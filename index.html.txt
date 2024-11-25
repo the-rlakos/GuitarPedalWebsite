@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitar Pedal App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <h1>Guitar Pedal Manager</h1>
+        <p>Download and manage firmware and effects for your digital guitar pedal.</p>
+    </header>
+    <main>
+        <section class="download">
+            <h2>Download the App</h2>
+            <p>Select your platform to get started:</p>
+            <div class="buttons">
+                <a href="downloads/GuitarPedalApp_Windows.zip" class="btn">Download for Windows</a>
+                <a href="downloads/GuitarPedalApp_macOS.zip" class="btn">Download for macOS</a>
+            </div>
+        </section>
+        <section class="support">
+            <h2>Support and Documentation</h2>
+            <p>Need help? Visit our <a href="documentation.html">documentation page</a> for setup guides and troubleshooting.</p>
+        </section>
+    </main>
+    <footer class="footer">
+        <p>&copy; 2024 Guitar Pedal Team. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
